@@ -1,6 +1,5 @@
 # Xiaomi Yi 4k Camera Notes
 
----
 ## WiFi connection
 
 ### Addresses in AP mode:
