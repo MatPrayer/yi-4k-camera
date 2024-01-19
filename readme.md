@@ -1,7 +1,5 @@
 # Appunti per Xiaomi Yi 4k Camera
 
----
-
 
 ## Device info
 
