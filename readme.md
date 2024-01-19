@@ -37,8 +37,8 @@ Utilizzando il [firmware custom (Version: 1.10.52)](https://github.com/psolyca/Y
 ### Modalità WiFi AP
 
 #### Indirizzi default in modalità WiFi AP:
-- Default Gateway: 192.168.50.1
-- IPv4 Address: 192.168.50.5
+- Default Gateway: `192.168.50.1`
+- IPv4 Address: `192.168.50.5`
 
 ## TELNET
 `telnet 192.168.50.1`
@@ -51,7 +51,7 @@ Utilizzando il [firmware custom (Version: 1.10.52)](https://github.com/psolyca/Y
 
 ---
 
-## Link utili / fonti
+## Link utili
 
 - [Psolyca's Yi4K Camera Mod](https://psolyca.ovh/)
 
@@ -67,4 +67,12 @@ Utilizzando il [firmware custom (Version: 1.10.52)](https://github.com/psolyca/Y
 
 - [Yi4kApi - Python](https://github.com/NikolayRag/Yi4kAPI)
 
+- [Tabella Bitrate](https://gist.github.com/psolyca/a04793e8df627fca56c57883f02ce53c)
 
+- [Tabella Indirizzi Risoluzioni](https://gist.github.com/psolyca/d83bd3594c94c6e3fd17d7ae636678ff)
+
+### Link da leggere
+
+- [Autoexec.ash commands collection](https://dashcamtalk.com/forum/threads/autoexec-ash-commands-collection-update-20-10-01-new-website.36825/)
+
+- [Circa quello che volevo fare io](https://dashcamtalk.com/forum/threads/stream-from-4k-through-raspberry-pi-to-matlab.38038/)
